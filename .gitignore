@@ -1,0 +1,12 @@
+# Customer invoices must not be published
+*.pdf
+*.xlsx
+*.xls
+*.jpg
+*.jpeg
+*.png
+*.csv
+!hsn_master.csv
+app_backup_old.py
+__pycache__/
+.venv/
