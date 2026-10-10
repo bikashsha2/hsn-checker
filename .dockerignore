@@ -1,0 +1,10 @@
+*.pdf
+*.xlsx
+*.xls
+*.csv
+!hsn_master.csv
+app_backup_old.py
+run_app.bat
+__pycache__/
+hsn_backups/
+hsn_changelog.csv

@@ -10,3 +10,4 @@
 app_backup_old.py
 __pycache__/
 .venv/
+hsn_backups/
